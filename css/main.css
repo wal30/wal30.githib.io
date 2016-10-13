@@ -18,7 +18,7 @@ a {
 }
 a.homelink {
     text-decoration: none;
-    color: white; 
+    color: #FFFFFF; 
 }
 a:hover:not(.active) {
     text-decoration: underline;
