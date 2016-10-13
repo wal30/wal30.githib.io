@@ -16,8 +16,11 @@ a {
     text-decoration: none;
     color: #999;
 }
-a:hover {
+a:hover:not(.active) {
     text-decoration: underline;
+}
+.active {
+    background-color: rgba (21,124,168); 
 }
 h1 {
     font-size: 3em;
