@@ -16,6 +16,10 @@ a {
     text-decoration: none;
     color: #999;
 }
+a.homelink {
+    text-decoration: none;
+    color: #FFFFFF; 
+}
 a:hover:not(.active) {
     text-decoration: underline;
 }
